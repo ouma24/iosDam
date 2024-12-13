@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6EA60D27-09E1-43C5-B9A4-906F6C4FB89A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53DC2A28-AA53-4572-B5F4-834ACF4DE9EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Health360/Preview Content/View/Authentification/SignUp/SignUpView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "SignUp"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "53DC2A28-AA53-4572-B5F4-834ACF4DE9EB - 5038a41598c92823"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Health360.SignUp.navigationViewModel.getter : Health360.NavigationViewModel"
+                  moduleName = "Health360.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Downloads/Health-360-main%204/Health360/Preview%20Content/View/Authentification/SignUp/SignUpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "53DC2A28-AA53-4572-B5F4-834ACF4DE9EB - 5f8f814446ae1b7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Health360.SignUp.$navigationViewModel.getter : SwiftUI.EnvironmentObject&lt;Health360.NavigationViewModel&gt;.Wrapper"
+                  moduleName = "Health360.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Downloads/Health-360-main%204/Health360/Preview%20Content/View/Authentification/SignUp/SignUpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "53DC2A28-AA53-4572-B5F4-834ACF4DE9EB - 33ae84ab3aed0324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of Health360.SignUp.init(vm: @autoclosure () -&gt; Health360.UserViewModel, navigationViewModel: SwiftUI.EnvironmentObject&lt;Health360.NavigationViewModel&gt;) -&gt; Health360.SignUp"
+                  moduleName = "Health360.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Downloads/Health-360-main%204/Health360/Preview%20Content/View/Authentification/SignUp/SignUpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9667A75C-FC95-47A8-B2AC-54DB1D452811"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Health360/Preview Content/View/Authentification/SignUp/SignUpView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "SignUp"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4F841CC-3745-49DB-983C-25864F081F2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Health360/Preview Content/View/Authentification/SignUp/SignUpView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D7D3CAC-39C1-4B8D-AADD-18F0A3B84180"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Health360/Preview Content/View/Authentification/SignUp/SignUpView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SignUp"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "3D7D3CAC-39C1-4B8D-AADD-18F0A3B84180 - b7d99bd1110b9bbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Health360.SignUp.vm : Health360.UserViewModel"
+                  moduleName = "Health360.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Downloads/Health-360-main%204/Health360/Preview%20Content/View/Authentification/SignUp/SignUpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "3D7D3CAC-39C1-4B8D-AADD-18F0A3B84180 - 93cf8cbba2562584"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Health360.SignUp.vm.getter : Health360.UserViewModel"
+                  moduleName = "Health360.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Downloads/Health-360-main%204/Health360/Preview%20Content/View/Authentification/SignUp/SignUpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "3D7D3CAC-39C1-4B8D-AADD-18F0A3B84180 - 21a80104d23cb0dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Health360.SignUp.$vm.getter : SwiftUI.ObservedObject&lt;Health360.UserViewModel&gt;.Wrapper"
+                  moduleName = "Health360.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Downloads/Health-360-main%204/Health360/Preview%20Content/View/Authentification/SignUp/SignUpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "3D7D3CAC-39C1-4B8D-AADD-18F0A3B84180 - b552d15bb228b125"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Health360.SignUp.init(vm: @autoclosure () -&gt; Health360.UserViewModel, navigationViewModel: SwiftUI.EnvironmentObject&lt;Health360.NavigationViewModel&gt;) -&gt; Health360.SignUp"
+                  moduleName = "Health360.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Downloads/Health-360-main%204/Health360/Preview%20Content/View/Authentification/SignUp/SignUpView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
